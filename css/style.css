@@ -1,0 +1,296 @@
+.descuento{
+    position: absolute;
+    width: 1024px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    background-color: #1CD1B0;
+    box-sizing: border-box;
+    padding: 10px;;
+}
+
+.boxhead{
+    background-color: #00669F;
+    box-sizing: border-box;
+    position: absolute;
+    width: 1024px;
+    height: 63px;
+    left: 0px;
+    top: 38px;
+}
+
+h1{
+    position: relative;
+    width: 128px;
+    height: 47px;
+    padding: 28px;
+    bottom: 10px;
+    right: 10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+
+.box11{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 293px;
+
+}
+
+.box21{
+position: absolute;
+width: 120px;
+height: 118px;
+left: 122px;
+top: 421px;
+z-index: 2;
+border-radius: 50%;
+
+
+}
+
+.box31{
+background-color: #F3F3F3;
+position: absolute;
+width: 300px;
+height: 336px;
+left: 32px;
+top: 485px;
+
+
+}
+
+.corazon1 {
+position: absolute;
+top:308px;
+left:53px;
+
+}
+
+.box12{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 362px;
+    top: 293px;
+    
+    }
+    
+.box22{
+    position: absolute;
+    width: 122px;
+    height: 122px;
+    left: 451px;
+    top: 419px;
+    z-index: 2;
+    border-radius: 50%;
+    
+    }
+    
+.box32{
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 362px;
+    top: 485px;
+    background-color: #F3F3F3;
+    }
+
+.corazon2 {
+position: absolute;
+top:308px;
+left:383px;
+
+}
+
+.box13{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 692px;
+    top: 294px;
+        
+    }
+        
+.box23{
+    position: absolute;
+    width: 122px;
+    height: 120px;
+    left: 781px;
+    top: 420px;
+    z-index: 2;
+    border-radius: 50%;
+        
+        }
+        
+.box33{
+
+    background-color: #F3F3F3;
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 692px;
+    top: 486px;
+        
+        }
+
+.corazon3 {
+position: absolute;
+top:308px;
+left:713px;
+}
+
+h2.t1 {
+    position: absolute;
+    width: 122px;
+    height: 35px;
+    left: 121px;
+    top: 559px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+}
+
+.p1 {
+position: absolute;
+width: 267px;
+height: 113px;
+left: 48px;
+top: 604px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+}
+
+.ver1 {
+background-color: #00669F;
+position: absolute;
+width: 128.78px;
+height: 48.52px;
+left: 117px;
+top: 754px;
+text-align: center;
+color:white;
+}
+
+h2.t2 {
+position: absolute;
+width: 171px;
+height: 35px;
+left: 427px;
+top: 559px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+}
+
+.p2 {
+position: absolute;
+width: 267px;
+height: 113px;
+left: 378px;
+top: 604px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+
+.ver2 {
+background-color: #00669F;
+position: absolute;
+width: 128.78px;
+height: 48.52px;
+left: 447px;
+top: 754px;
+text-align: center;
+color:white;
+}
+
+h2.t3 {
+position: absolute;
+width: 122px;
+height: 35px;
+left: 781px;
+top: 560px;
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+}
+
+.p3{
+position: absolute;
+width: 267px;
+height: 113px;
+left: 708px;
+top: 605px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+
+.ver3 {
+background-color: #00669F;
+position: absolute;
+width: 128.78px;
+height: 48.52px;
+left: 777px;
+top: 755px;
+text-align: center;
+color:white;
+}
+
+footer{
+background-color: #00669F;
+position: absolute;
+width: 1024px;
+height: 51px;
+left: 0px;
+top: 972px;
+}
+
+h3 {
+color: #FFF9F9;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+position: relative;
+left: 15px;
+}
